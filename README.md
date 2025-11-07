@@ -19,7 +19,7 @@
 
 
 ### 🗂️ Other
-- Note 📝 : [Note My Project & Source Code](https://github.com/t4ngh0st/notemd)
+- Note 📝 : [Note My Project & Source Code](https://github.com/gh0st4n/notemd)
 
 ---
 
