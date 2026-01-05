@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=435&lines=Bug+Hunter;Low+Dev;Arch+Linux+%F0%9F%97%B8;Void+Linux+%F0%96%A3%90;Python+%26+Zig;Neovim+%E2%80%A2+NvChad;Hacker+Mindset+%E2%9C%A8" alt="Typing Effect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=435&lines=Bug+Hunter;Low+Dev;Arch+Linux;Void+Linux;Python+%26+Zig;Neovim+%E2%80%A2+NvChad" alt="Typing Effect"/>
 </p>
 
 ---
