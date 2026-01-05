@@ -29,12 +29,12 @@
 ### ☕ Support Me & Other
 <p align="center">
   <!-- Ko-fi -->
-  <a href="#" target="_blank">
+  <a href="https://ko-fi.com/darskevoid" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"/>
   </a>
   &nbsp;&nbsp;
   <!-- Buy Me a Coffee -->
-  <a href="#" target="_blank">
+  <a href="buymeacoffee.com/gh0st4n" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
   &nbsp;&nbsp;
