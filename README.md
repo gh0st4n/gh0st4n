@@ -10,12 +10,12 @@
 ---
 
 ### 🌐 Social
-- 📸 Instagram         : [@Gh0sT4n](https://www.instagram.com/zig_vr0g/)  
+- 📸 Instagram         : [@Gh0sT4n](https://www.instagram.com/gh0st4n_/)  
 - 💬 Discord Community : [Gh0sT4n](https://discord.gg/fwsdP6xKGW)
 - 💬 Discord SMK       : [FRIEND-Server](https://discord.gg/EvV5FcjtKM)
 - ▶️ Youtube           : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 - 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/gh0st4n-web/)
-- 🔗 Linked            : [Linked](https://www.linkedin.com/in/muhammad-luthfi-fakhmar/)
+- 🔗 Linked            : [Linked](https://www.linkedin.com/in/m-luthfi-fakhmar/)
 
 
 ### 🗂️ Other
