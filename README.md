@@ -29,7 +29,7 @@
 ### ☕ Support Me & Other
 <p align="center">
   <!-- Ko-fi -->
-  <a href="https://ko-fi.com/darskevoid" target="_blank">
+  <a href="https://ko-fi.com/gh0st4n" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"/>
   </a>
   &nbsp;&nbsp;
