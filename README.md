@@ -20,9 +20,9 @@
 
 ### 🗂️ Other
 - Note 📝 : [Note My Project & Source Code](https://github.com/gh0st4n/notemd)
-- T4n OS 🐧 : [Repo Github](https://github.com/t4n-os/T4n_OS) & [Website](https://t4n-os.github.io/T4n_OS)
-- VUR 📜 : [Repo Github](https://github.com/t4n-os/VUR)
-- VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-os/VUR-Helper)
+- T4n OS 🐧 : [Repo Github](https://github.com/t4n-company/t4n-os) & [Website](https://t4n-company.github.io/t4n-os)
+- VUR 📜 : [Repo Github](https://github.com/t4n-company/VUR)
+- VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-company/VUR-Helper)
 
 ---
 
