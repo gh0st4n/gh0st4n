@@ -12,8 +12,6 @@
 - VUR 📜 : [Repo Github](https://github.com/t4n-tech/vur)
 - VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-tech/Let)
 
----
-
 ### ☕ Support Me & Other
 <p align="center">
   <!-- Ko-fi -->
