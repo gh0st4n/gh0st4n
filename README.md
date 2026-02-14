@@ -1,28 +1,16 @@
 <h2 align="center">👾 Gh0sT4n ♎</h2>
 <p align="center">「 Bug Hunter • Low Dev 」</p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=435&lines=Bug+Hunter;Low+Dev;Arch+Linux;Void+Linux;Python+%26+Zig;Neovim+%E2%80%A2+NvChad" alt="Typing Effect"/>
-</p>
-
----
-
 ### 🌐 Social
 - 📸 Instagram         : [@gh0st4n_](https://www.instagram.com/gh0st4n_/)  
-- 💬 Discord Community : [Gh0sT4n](https://discord.gg/fwsdP6xKGW)
-- 💬 Discord SMK       : [FRIEND-Server](https://discord.gg/EvV5FcjtKM)
-- ▶️ Youtube           : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 - 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/gh0st4n-web/)
 - 🔗 Linked            : [Linked](https://www.linkedin.com/in/m-luthfi-fakhmar/)
 
 
 ### 🗂️ Other
-- Note 📝 : [Note My Project & Source Code](https://github.com/gh0st4n/notemd)
-- T4n OS 🐧 : [Repo Github](https://github.com/t4n-company/t4n-os) & [Website](https://t4n-company.github.io/t4n-os)
-- VUR 📜 : [Repo Github](https://github.com/t4n-company/VUR)
-- VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-company/VUR-Helper)
+- T4n OS 🐧 : [Repo Github](https://github.com/t4n-tech/t4n-os) & [Website](https://t4n-tech.github.io/t4n-os)
+- VUR 📜 : [Repo Github](https://github.com/t4n-tech/vur)
+- VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-tech/Let)
 
 ---
 
