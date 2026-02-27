@@ -3,14 +3,14 @@
 
 ### 🌐 Social
 - 📸 Instagram         : [@gh0st4n_](https://www.instagram.com/gh0st4n_/)  
-- 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/gh0st4n-web/)
+- 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/site/)
 - 🔗 Linked            : [Linked](https://www.linkedin.com/in/m-luthfi-fakhmar/)
 
 
 ### 🗂️ Other
-- T4n OS 🐧 : [Repo Github](https://github.com/t4n-tech/t4n-os) & [Website](https://t4n-tech.github.io/t4n-os)
-- VUR 📜 : [Repo Github](https://github.com/t4n-tech/vur)
-- VUR-Helper 🛠️ : [Source Code](https://github.com/t4n-tech/Let)
+- T4n OS 🐧 : [Repo Github](https://github.com/T4n-Labs/t4n-os) & [Website](https://T4n-Labs.github.io/t4n-os)
+- VUR 📜 : [Repo Github](https://github.com/T4n-Labs/vur)
+- VUR-Helper 🛠️ : [Source Code](https://github.com/T4n-Labs/Let)
 
 ### ☕ Support Me & Other
 <p align="center">
