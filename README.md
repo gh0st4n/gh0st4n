@@ -11,7 +11,10 @@
 - T4n OS : [Repo Github](https://github.com/T4n-Labs/t4n-os) & [Website](https://T4n-Labs.github.io/t4n-os)
 - VUR : [Repo Github](https://github.com/T4n-Labs/vur)
 - VUR-Helper : [Source Code](https://github.com/T4n-Labs/Let-X)
-- Learn Together : [Website](https://T4n-Labs.github.io/learn)
+
+### Connection
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/T4n-Labs)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4ca28c4e-4b97-4858-8d3d-3670a6b7d196"/> [Github](https://github.com/T4n-Labs)
 
 ### ☕ Support Me & Other
 <p align="center">
