@@ -1,22 +1,23 @@
 <h2 align="center">👾 Gh0sT4n ♎</h2>
-<p align="center">「 Bug Hunter • Low Dev 」</p>
+<p align="center">「 Bug Hunter • Low Dev • Vulnerabilty Researcher 」</p>
 
 ### 🌐 Social
 - 📸 Instagram         : [@gh0st4n_](https://www.instagram.com/gh0st4n_/)  
 - 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/site/)
 - 🔗 Linked            : [Linked](https://www.linkedin.com/in/m-luthfi-fakhmar/)
-
+- [ ▶︎ ] Youtube        : [Youtube](https://www.youtube.com/channel/UCcfBybFhL--0OjH4ZooR_kQ)
 
 ### 🗂️ Other
-- T4n OS : [Repo Github](https://github.com/T4n-Labs/t4n-os) & [Website](https://T4n-Labs.github.io/t4n-os)
-- VUR : [Repo Github](https://github.com/T4n-Labs/vur)
-- VUR-Helper : [Source Code](https://github.com/T4n-Labs/Let-X)
+- T4n OS : [Repo Github](https://github.com/t4n-labs/t4n-os) & [Website](https://t4n-labs.github.io/t4n-os)
+- VUR : [Repo Github](https://github.com/t4n-labs/vur)
+- VUR-Helper : [Source Code](https://github.com/t4n-labs/Let-X)
 
-### Connection
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/T4n-Labs)
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4ca28c4e-4b97-4858-8d3d-3670a6b7d196"/> [Github](https://github.com/T4n-Labs)
+### 🔗 Connection
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/gh0st4n)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/t4n-labs)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4ca28c4e-4b97-4858-8d3d-3670a6b7d196"/> [Github](https://github.com/t4n-labs)
 
-### ☕ Support Me & Other
+### 🤝 Support Me & Other
 <p align="center">
   <!-- Ko-fi -->
   <a href="https://ko-fi.com/gh0st4n" target="_blank">
@@ -24,7 +25,12 @@
   </a>
   <!-- Saweria -->
   <a href="https://saweria.co/gh0st4n" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-Donation-FAAE2B?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Saweria-FAAE2B?style=for-the-badge"/>
+  </a>
+
+  <!-- Kreate.gg -->
+  <a href="https://kreate.gg/gh0st4n" target="_blank">
+    <img src="https://img.shields.io/badge/Kreate.gg-E2B1FF?style=for-the-badge"/>
   </a>
 </p>
 
@@ -32,8 +38,8 @@
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Void-3CB371?style=for-the-badge&logo=void-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
