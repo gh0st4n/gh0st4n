@@ -3,14 +3,15 @@
 
 ### 🌐 Social
 - 📸 Instagram         : [@gh0st4n_](https://www.instagram.com/gh0st4n_/)  
-- 🔗 Portofolio        : [Portofolio Gh0sT4n](https://gh0st4n.github.io/site/)
+- 🔗 Website           : [Portofolio Gh0sT4n](https://gh0st4n.my.id/)
 - 🔗 Linked            : [Linked](https://www.linkedin.com/in/m-luthfi-fakhmar/)
 - [ ▶︎ ] Youtube        : [Youtube](https://www.youtube.com/channel/UCcfBybFhL--0OjH4ZooR_kQ)
 
 ### 🗂️ Other
-- T4n OS : [Repo Github](https://github.com/t4n-labs/t4n-os) & [Website](https://t4n-labs.github.io/t4n-os)
-- VUR : [Repo Github](https://github.com/t4n-labs/vur)
-- VUR-Helper : [Source Code](https://github.com/t4n-labs/Let-X)
+- Website T4n-Labs         : [Website T4n-Labs](https://t4nlabs.web.id/)
+- T4n OS                   : [Repo Github](https://github.com/t4n-labs/t4n-os) & [Website](https://t4nos.t4nlabs.web.id/)
+- VUR                      : [Repo Github](https://github.com/t4n-labs/vur) & [Website](https://vur.t4nlabs.web.id/)
+- VUR-Helper               : [Source Code](https://github.com/t4n-labs/Let-X)
 
 ### 🔗 Connection
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/gh0st4n)
