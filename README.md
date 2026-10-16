@@ -1,5 +1,11 @@
 <h2 align="center">👾 Gh0sT4n ♎</h2>
-<p align="center">「 Bug Hunter • Low Dev • Vulnerabilty Researcher 」</p>
+<p align="center">「 Bug Hunter • Low Dev • Vulnerability Researcher 」</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=435&lines=Bug+Hunter;Low+Dev;Vulnerability+Researcher;I+USE+T4n+OS+BTW;C+Zig+Python+Bash/sh+Shell;Neovim+%E2%80%A2+NvChad" alt="Typing Effect"/>
+</p>
+
+---
 
 ### 🌐 Social
 - 📸 Instagram         : [@gh0st4n_](https://www.instagram.com/gh0st4n_/)  
@@ -15,8 +21,8 @@
 
 ### 🔗 Connection
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/gh0st4n)
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/t4n-labs)
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4ca28c4e-4b97-4858-8d3d-3670a6b7d196"/> [Github](https://github.com/t4n-labs)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217"/> [Gitlab](https://gitlab.com/t4n-labs)
 
 ### 🤝 Support Me & Other
 <p align="center">
